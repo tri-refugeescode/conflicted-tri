@@ -13,3 +13,6 @@ Tri has travelled to:
 
 - Hawaii
 - New York
+- Montreal
+- UK
+- Vietnam
