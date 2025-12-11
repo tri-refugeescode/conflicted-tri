@@ -16,3 +16,4 @@ Tri has travelled to:
 - Montreal
 - UK
 - Vietnam
+- Japan
