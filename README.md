@@ -6,4 +6,4 @@ Tri's favourite things:
 * Tri enjoys working out at the gym.
 * Tri loves eating spinach. 
 * Tri loves vegetables.  
-* Tri is an anime fan.
+* Tri is an anime fan. - "FMA"
